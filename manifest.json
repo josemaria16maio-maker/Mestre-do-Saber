@@ -1,0 +1,21 @@
+{
+  "short_name": "Mestre Saber",
+  "name": "Mestre do Saber: Arena Mental",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/11500/11500918.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/11500/11500918.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#09090b",
+  "background_color": "#000000",
+  "orientation": "portrait"
+}
